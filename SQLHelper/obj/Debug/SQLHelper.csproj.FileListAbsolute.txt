@@ -1,0 +1,6 @@
+G:\Redesigning Health Services Application\Occupational Health Services\SQLHelper\bin\Debug\SQLHelper.dll
+G:\Redesigning Health Services Application\Occupational Health Services\SQLHelper\bin\Debug\SQLHelper.pdb
+G:\Redesigning Health Services Application\Occupational Health Services\SQLHelper\obj\Debug\SQLHelper.csprojAssemblyReference.cache
+G:\Redesigning Health Services Application\Occupational Health Services\SQLHelper\obj\Debug\SQLHelper.csproj.CoreCompileInputs.cache
+G:\Redesigning Health Services Application\Occupational Health Services\SQLHelper\obj\Debug\SQLHelper.dll
+G:\Redesigning Health Services Application\Occupational Health Services\SQLHelper\obj\Debug\SQLHelper.pdb

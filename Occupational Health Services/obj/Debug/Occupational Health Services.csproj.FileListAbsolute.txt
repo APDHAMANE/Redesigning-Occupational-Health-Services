@@ -1,0 +1,9 @@
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\bin\Debug\Occupational Health Services.exe.config
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\bin\Debug\Occupational Health Services.exe
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\bin\Debug\Occupational Health Services.pdb
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\obj\Debug\Occupational Health Services.csprojAssemblyReference.cache
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\obj\Debug\Occupational_Health_Services.Properties.Resources.resources
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\obj\Debug\Occupational Health Services.csproj.GenerateResource.cache
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\obj\Debug\Occupational Health Services.csproj.CoreCompileInputs.cache
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\obj\Debug\Occupational Health Services.exe
+G:\Redesigning Health Services Application\Occupational Health Services\Occupational Health Services\obj\Debug\Occupational Health Services.pdb

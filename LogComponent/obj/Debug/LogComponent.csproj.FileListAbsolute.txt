@@ -1,0 +1,10 @@
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\bin\Debug\LogComponent.dll.config
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\bin\Debug\LogComponent.dll
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\bin\Debug\LogComponent.pdb
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\bin\Debug\log4net.dll
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\bin\Debug\log4net.xml
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\obj\Debug\LogComponent.csprojAssemblyReference.cache
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\obj\Debug\LogComponent.csproj.CoreCompileInputs.cache
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\obj\Debug\LogComponent.csproj.CopyComplete
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\obj\Debug\LogComponent.dll
+G:\Redesigning Health Services Application\Occupational Health Services\LogComponent\obj\Debug\LogComponent.pdb
